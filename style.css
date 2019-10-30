@@ -1,5 +1,6 @@
 .full-width-banner {
   background-image: url('https://source.unsplash.com/random');
+  text-align: center;
 }
 
 .wrapper {
@@ -19,4 +20,16 @@ h1, h2 {
 
 h1 {
   color: #FFFFFF;
+  font-size: 38px;
+}
+
+.full-width-banner h2 {
+  color: #FFFFFF;
+  font-size: 30px;
+  font-family: Lora, serif;
+}
+
+.full-width-banner p {
+  font-family: Lora, serif;
+  font-size: 30px;
 }
